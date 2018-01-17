@@ -1,6 +1,8 @@
 # hp-41_rem
 ##HP-41: REMembering (event manager)
 
+**NOTE:** This program is part of the ISENE.ROM (https://github.com/isene/hp-41_isene-rom). The FOCAL listing can be found in the "src" folder of that project. Any updates and new version will be found there.
+
 Now your HP-41 can truly come to everyday use. With this program you can convert your calculator to a PDA.
 
 Move beyond the 10 alarms limit of the calculator. Let your calculator take care of remembering and keeping track of appointments. Some of the features include:
