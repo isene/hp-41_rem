@@ -33,3 +33,6 @@ Technical notes: This program needs an HP-41CX or the equivalent. It also needs 
 The program will store the events in the format "MM,DD:HH,MM:EVENTMESSAGE" regardless of the date format you use on your calculator (MM,DDYYYY or DD,MMYYYY). This is done for sorting convenience.
 
 When the program is initiated (via LBL e), it sets up an alarm that executes "R" every night. This is where the magic happens. "R" will go through the extended memory file "R" and cull all events for the day and make them into alarms, deleting them in the XM file.
+
+## License
+This software is released into the Public Domain.
