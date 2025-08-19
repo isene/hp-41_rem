@@ -1,3 +1,5 @@
+<img src="img/rem_logo.svg" align="left" width="150" height="150" alt="REM Logo">
+
 # hp-41_rem
 
 [![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
